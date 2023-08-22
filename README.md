@@ -14,3 +14,6 @@ HTML
 # Show your support
 Give a ⭐️ if you like this project!
 
+# Issues ??
+
+letme know [here](https://github.com/Lordgg007/recipes_page/issues)
